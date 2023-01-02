@@ -1,1 +1,1 @@
-print
+print i am gay
